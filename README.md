@@ -2,7 +2,7 @@
 	BootCamp Gostack - Desafio 6 - Database-upload
 </h3>
 <p align="center">
-  Um desafio bem pareciado com o anterior onde se deveria completar o código de uma API que cria transações de entras e saídas, dessa vez utilando banco de dados e upload de arquivos.
+  Um desafio bem parecido com o anterior onde se deveria completar o código de uma API que cria transações de entras e saídas, dessa vez utilando banco de dados e upload de arquivos.
 </p>
 
 <p align="center">
