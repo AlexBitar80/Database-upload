@@ -31,7 +31,7 @@ O projeto está utilizando as seguintes tecnologias:
 
 ## :gear: Como rodar
 
-Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Npm](https://www.npmjs.com/get-npm) ou do [Yarn](https://yarnpkg.com/) e do [Git](https://git-scm.com/) instalado na rua máquina.
+Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Npm](https://www.npmjs.com/get-npm) ou do [Yarn](https://yarnpkg.com/) e do [Git](https://git-scm.com/) instalado na sua máquina.
 Para criar a instancia do banco de dados eu estou usando o [Docker](https://docs.docker.com/get-docker/), instale-o e inicie uma instancia antes de rodar as migrations
 
 ```bash
